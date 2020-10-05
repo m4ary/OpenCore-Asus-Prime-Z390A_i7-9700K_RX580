@@ -34,4 +34,4 @@ updating the firmware drive system for the Samsunge 970 EVO PLUS from  [here](ht
 
 
 ## Screenshots
-![system_info](https://github.com/m4ary/hackintosh-Big-Sur-Asus-Prime-Z390A_i7-9700K_RX580/blob/master/screenshot.png)
+![system_info](https://github.com/m4ary/hackintosh-Big-Sur-Asus-Prime-Z390A_i7-9700K_RX580/blob/main/screenshot.jpg?raw=true)
