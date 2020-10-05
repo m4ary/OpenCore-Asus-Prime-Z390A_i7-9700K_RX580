@@ -1,5 +1,5 @@
 # Hackintosh build with ASUS Prime Z390-A and i7-9700K
-![system_info](https://github.com/m4ary/hackintosh-Big-Sur-Asus-Prime-Z390A_i7-9700K_RX580/blob/main/screenshot.jpg?raw=true)
+![system_info](https://github.com/m4ary/OpenCore-Big-Sur-Asus-Prime-Z390A_i7-9700K_RX580/blob/main/screenshot.jpg?raw=true)
 
 
 
