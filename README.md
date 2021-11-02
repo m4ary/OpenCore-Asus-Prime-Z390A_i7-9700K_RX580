@@ -1,5 +1,5 @@
 # Hackintosh build with ASUS Prime Z390-A and i7-9700K
-![system_info](https://github.com/m4ary/OpenCore-Big-Sur-Asus-Prime-Z390A_i7-9700K_RX580/blob/main/screenshot.jpg?raw=true)
+![system_info](https://github.com/m4ary/OpenCore-Asus-Prime-Z390A_i7-9700K_RX580/blob/main/screenshot.jpg?raw=true)
 
 
 
@@ -8,6 +8,7 @@ Don't sign in with your Apple ID until changing the platforminfo using [this](ht
 
 ## Summary
 this build is tested with:
+- macOS Monterey 12.0.1
 - MacOS BigSur 11.3
 - MacOS Catalina 11 Beta
 - MacOS Catalina 10.15.2
