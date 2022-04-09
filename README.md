@@ -7,12 +7,8 @@
 Don't sign in with your Apple ID until changing the platforminfo using [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#platforminfo) tutorial.
 
 ## Summary
-this build is tested with:
-- macOS Monterey 12.0.1
-- MacOS BigSur 11.3
-- MacOS Catalina 11 Beta
-- MacOS Catalina 10.15.2
-- MacOS Mojave 10.14.6
+this build is tested with since MacOS Mojave until macOS Monterey
+
 
 everything is working fine including:
 1. AirDrop \\ Handoff
