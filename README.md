@@ -19,7 +19,7 @@ this build is tested with:
 - MacOS Catalina 10.15.2
 - MacOS Mojave 10.14.6
 
-testing and working:
+working:
 1. AirDrop \\ Handoff
 2. FaceTime \\ iMessage
 3. Sleep
@@ -27,8 +27,6 @@ testing and working:
 not working:
 1. DRM (Direct Rendering Manager):
 DRM is not working which means Apple TV+ is not wokring and using chrome for netflix, you can try fix it using this [link](https://dortania.github.io/OpenCore-Post-Install/universal/drm.html)
-
-DRM is not working which is mean Apple TV+ is not wokring and using chrome for netflix, you can try fix it using this [link](https://dortania.github.io/OpenCore-Post-Install/universal/drm.html)
 
 
 
