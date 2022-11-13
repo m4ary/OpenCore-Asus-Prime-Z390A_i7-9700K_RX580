@@ -6,8 +6,6 @@
 ## READ BELOW BEFORE USE
 1- Don't sign in with your Apple ID until changing the platforminfo using [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#platforminfo) tutorial.
 
-2- opencore lateast version experiencing slow boot times under Monterey and above for some NVMe storage
-
 
 
 ## Summary
